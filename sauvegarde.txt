@@ -1,0 +1,11 @@
+
+-----------------------------------------------------
+
+	MASTERMIND SAUVEGARDE : poussifeu
+La combinaison secrete : 
+	Position : 1 Couleur : 5
+	Position : 2 Couleur : 4
+	Position : 3 Couleur : 5
+	Position : 4 Couleur : 2
+Vous avez gagné la partie en 2/3 essais !
+CHEAT : ACTIVER
